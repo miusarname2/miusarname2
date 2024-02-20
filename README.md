@@ -60,4 +60,10 @@ This is my ✨ _personal_ ✨ repository who will show you who I am..
  <a href="https://gitlab.com/miusarname2/"><img alt="Gitlab" src="https://img.shields.io/badge/GitLab-fca326?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 </p>
 
+
+Mi perfil original fue baneado... asi que tuve que empezar de 0
+
+![image](https://github.com/miusarname2/miusarname2/assets/160613711/596712a4-fb9d-4f74-b19c-a1776a97da28)
+
+
  <!--⭐️ From [Oscar M Alvarez](https://github.com/miusarname2)-->
