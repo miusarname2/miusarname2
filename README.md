@@ -44,20 +44,20 @@ This is my ✨ _personal_ ✨ repository who will show you who I am..
 
 
 ## My Proggraming Stats
-![Oscar's github stats](https://github-readme-stats.vercel.app/api?username=miusarname&theme=tokyonight&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miusarname&theme=tokyonight&layout=compact )
-![](https://github-readme-streak-stats.herokuapp.com/?user=miusarname&theme=dark&hide_border=false) 
+![Oscar's github stats](https://github-readme-stats.vercel.app/api?username=miusarname2&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miusarname2&theme=tokyonight&layout=compact )
+![](https://github-readme-streak-stats.herokuapp.com/?user=miusarname2&theme=dark&hide_border=false) 
 
-![](https://komarev.com/ghpvc/?username=miusarname)
+![](https://komarev.com/ghpvc/?username=miusarname2)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=miusarname&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=miusarname2&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 <p align="center">
  <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://www.linkedin.com/in/oscar-mauricio-alvarez-g/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:oscarm.alvarez6@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
- <a href="https://gitlab.com/miusarname/"><img alt="Gitlab" src="https://img.shields.io/badge/GitLab-fca326?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+ <a href="https://gitlab.com/miusarname2/"><img alt="Gitlab" src="https://img.shields.io/badge/GitLab-fca326?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 </p>
 
- <!--⭐️ From [Oscar M Alvarez](https://github.com/miusarname)-->
+ <!--⭐️ From [Oscar M Alvarez](https://github.com/miusarname2)-->
