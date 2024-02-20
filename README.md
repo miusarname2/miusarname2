@@ -61,7 +61,7 @@ This is my ✨ _personal_ ✨ repository who will show you who I am..
 </p>
 
 
-Mi perfil original fue baneado... asi que tuve que empezar de 0
+My original profile was banned... so I had to start from scratch.
 
 ![image](https://github.com/miusarname2/miusarname2/assets/160613711/596712a4-fb9d-4f74-b19c-a1776a97da28)
 
