@@ -32,8 +32,9 @@ This is my ✨ _personal_ ✨ repository who will show you who I am..
 <a href="https://github.com/miusarname2?tab=repositories&q=&type=&language=dart&sort="><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code></a>
 <a href="https://github.com/miusarname2?tab=repositories&q=&type=&language=kotlin&sort="><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code></a>
 <a href="https://github.com/miusarname2?tab=repositories&q=&type=&language=swift&sort="><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code></a>
-<a href="https://github.com/miusarname2?tab=repositories&q=&type=&language=java&sort="><code><img height="25" src="https://camo.githubusercontent.com/7f5e03d76607c43dd9c6ca5d3e3a5b3a54e7788fc31aa36574fdb69f3aa15ffa/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6a6176612d34332d3536393330352e706e67"></code></a>
+<a href="https://github.com/miusarname2?tab=repositories&q=&type=&language=java&sort="><code><img height="32" src="https://www.manualweb.net/img/logos/java.png"></code></a>
 <a href="https://github.com/miusarname2?tab=repositories&q=&type=&language=c%23&sort="><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code></a>
+<code><img height="25" src="https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="25" src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png"></code>
@@ -41,10 +42,12 @@ This is my ✨ _personal_ ✨ repository who will show you who I am..
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
+<code><img height="27" src="https://seeklogo.com/images/G/gin-logo-BD71D14076-seeklogo.com.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="25" src="https://static.vecteezy.com/system/resources/previews/021/608/790/original/chatgpt-logo-chat-gpt-icon-on-black-background-free-vector.jpg"></code>
+
 
 
 ## My Proggraming Stats
