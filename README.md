@@ -46,10 +46,12 @@ I build web and cross-platform applications, and I love collaborating on project
 ---
 
 ## ✨ Highlights / Certifications
-
-<code><img height="150" alt="Oscar's certification AWS Educate Introduction to Cloud 101" src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png"></code>
-<code><img height="150" alt="Oscar's certification AWS Educate Getting Started with Databases" src="https://images.credly.com/size/340x340/images/6f135924-7645-4bd2-ab68-3bc0b49c7e27/image.png"></code>
-<code><img height="150" alt="Oscar's certification AWS Educate Getting Started with Storage" src="https://images.credly.com/size/110x110/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png"></code>
+<a href="https://www.credly.com/users/oscar-mauricio-a-gomez"><code><img height="150" alt="Oscar's certification AWS Educate Introduction to Cloud 101" src="https://images.credly.com/size/80x80/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob"></code></a>
+<a href="https://www.credly.com/users/oscar-mauricio-a-gomez"><code><img height="150" alt="Oscar's certification AWS Educate Getting Started with Databases" src="https://images.credly.com/size/80x80/images/a08cf90b-9838-4f6c-82bd-8db85fb89dd5/blob"></code></a>
+<a href="https://www.credly.com/users/oscar-mauricio-a-gomez"><code><img height="150" alt="Oscar's certification AWS Educate Getting Started with Storage" src="https://images.credly.com/size/80x80/images/3b1b42e6-dfc2-492b-90df-8058096cb93d/blob"></code></a>
+<a href="https://www.credly.com/users/oscar-mauricio-a-gomez"><code><img height="150" alt="Oscar's certification AWS Educate Getting Started with Cloud Ops" src="https://images.credly.com/size/80x80/images/4251ab91-6d67-47da-801c-855c0bbc6cc3/blob"></code></a>
+<a href="https://www.credly.com/users/oscar-mauricio-a-gomez"><code><img height="150" alt="Oscar's certification AWS Educate Getting Started with Compute" src="https://images.credly.com/size/80x80/images/7b08cc0e-064b-407d-b70e-323509c3e474/blob"></code></a>
+<a href="https://www.credly.com/users/oscar-mauricio-a-gomez"><code><img height="150" alt="Oscar's certification AWS Educate Getting Started with Serverless" src="https://images.credly.com/size/80x80/images/25108813-2dd7-45f7-8158-65689b8526b5/blob"></code></a>
 
 > *Verifiable certifications — links to Credly on each image.*
 
