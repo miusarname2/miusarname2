@@ -51,6 +51,7 @@ This is my ✨ _personal_ ✨ repository who will show you who I am..
 
 
 ## My Proggraming Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miusarname2)](https://github.com/miusarname2/github-readme-stats)
 ![Oscar's github stats](https://github-readme-stats.vercel.app/api?username=miusarname2&theme=tokyonight&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miusarname2&theme=tokyonight&layout=compact )
 ![](https://github-readme-streak-stats.herokuapp.com/?user=miusarname2&theme=dark&hide_border=false) 
