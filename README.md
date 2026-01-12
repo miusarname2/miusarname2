@@ -1,25 +1,20 @@
-# How's it going ? I'm Oscar 👋
+# Hello! I'm Oscar 👋
 
+**Full-Stack Developer, passionate about AI, quantum physics, and astronomy.**
+I build web and cross-platform applications, and I love collaborating on projects that transform ideas into real products.
 
-This is my ✨ _personal_ ✨ repository who will show you who I am..
+---
 
+## 🔭 About me
 
+- 🌱 Currently: working on **Web + AI** projects and cross-platform apps.
+- 👯 I am looking to collaborate on: open source software, educational tools, and scientific projects.
+- ⚡ Interests: quantum physics, astronomy, generative models, and user experience. I am looking to collaborate on: open source software, educational tools, and scientific projects.
+- 🧭 Languages: Spanish (native) • English (proficient)
 
-- 👯 I’m looking to collaborate on projects, initiatives and knowledge sharing actions.
-- 🤔 I’m looking for help with anything that you can help, the thing is to build new projects and give real stuff to the ideas, everyone is welcome!
-- 💬 Ask me about anything, my doors and mind are always open.
-- 📫 How to reach me: check my profile for my different adresses.
-- 😄 Pronouns: Hi, hello, i am a close friend, not a far person
-- ⚡ Fun fact: I am a person who is very passionate about physics, especially in the fields of quantum mechanics and astronomy.
-- 👨‍💻 niches or "fields": Currently the niches / fields where I consider that I can perform in the best way will be: Web Development, AI Development & Development of multiplatform applications...
+---
 
-**Amazon Certifactions**  
-<code><img height="150" alt="Oscar's certification AWS Educate Introduction to Cloud 101" src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png"></code>
-<code><img height="150" alt="Oscar's certification AWS Educate Getting Started with Databases" src="https://images.credly.com/size/340x340/images/6f135924-7645-4bd2-ab68-3bc0b49c7e27/image.png"></code>
-<code><img height="150" alt="Oscar's certification AWS Educate Getting Started with Storage" src="https://images.credly.com/size/110x110/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png"></code>
-
-
-**Languages:**  
+## 🛠 Tech / Tools
 
 <a href="https://github.com/miusarname2?tab=repositories&q=&type=&language=html&sort="><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code></a>
 <a href="https://github.com/miusarname2?tab=repositories&q=&type=&language=css&sort="><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code></a>
@@ -48,23 +43,35 @@ This is my ✨ _personal_ ✨ repository who will show you who I am..
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="25" src="https://static.vecteezy.com/system/resources/previews/021/608/790/original/chatgpt-logo-chat-gpt-icon-on-black-background-free-vector.jpg"></code>
 
+---
+
+## ✨ Highlights / Certifications
+
+<code><img height="150" alt="Oscar's certification AWS Educate Introduction to Cloud 101" src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png"></code>
+<code><img height="150" alt="Oscar's certification AWS Educate Getting Started with Databases" src="https://images.credly.com/size/340x340/images/6f135924-7645-4bd2-ab68-3bc0b49c7e27/image.png"></code>
+<code><img height="150" alt="Oscar's certification AWS Educate Getting Started with Storage" src="https://images.credly.com/size/110x110/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png"></code>
+
+> *Verifiable certifications — links to Credly on each image.*
+
+---
+
+## 📬 How to contact me
+<p>
+  <a href="https://www.linkedin.com/in/oscar-mauricio-alvarez-g/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:oscarm.alvarez6@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://gitlab.com/miusarname2/"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-fca326?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
+</p>
+
+---
+
+## 🎯 2026 Objectives
+- Contribuir a 3 proyectos open source relacionados con IA aplicada.
+- Publicar 2 tutoriales técnicos sobre IA y Web.
+- Construir y lanzar una app multiplataforma con >100 usuarios activos.
+
+---
+
+Thanks for stopping by my profile—if you're interested in collaborating, let's talk!
 
 ![](https://komarev.com/ghpvc/?username=miusarname2)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=miusarname2&theme=flat&no-frame=false&no-bg=false&margin-w=4)
-
-<p align="center">
- <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://www.linkedin.com/in/oscar-mauricio-alvarez-g/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:oscarm.alvarez6@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
- <a href="https://gitlab.com/miusarname2/"><img alt="Gitlab" src="https://img.shields.io/badge/GitLab-fca326?style=for-the-badge&logo=gitlab&logoColor=white"></a>
-</p>
-
-
-My original profile was banned... so I had to start from scratch.
-
-![image](https://github.com/miusarname2/miusarname2/assets/160613711/596712a4-fb9d-4f74-b19c-a1776a97da28)
-
-
- <!--⭐️ From [Oscar M Alvarez](https://github.com/miusarname2)-->
