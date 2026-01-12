@@ -58,7 +58,7 @@ I build web and cross-platform applications, and I love collaborating on project
 
 ## 📁 Featured projects
 1. **Automatizacion-n8n** — My first automation with n8n, where we send out job openings every so often. (Tech: n8n,Javascript).  
-2. **PlaningProyectUcc** — A tool designed to manage student classes and classrooms. (Tech: Python, Transformers, Flask).  
+2. **PlaningProyectUcc** — A tool designed to manage student classes and classrooms. (Tech: Laravel, React, php, crons).  
 ... More coming soon... 🚧
 
 > *(Includes 1 line and tech tags; add link to each repoFeatured projects)*
